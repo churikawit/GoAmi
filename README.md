@@ -1,2 +1,2 @@
 # GoAmi
-library for connect to Linkage Center
+Library for connect to Linkage Center
